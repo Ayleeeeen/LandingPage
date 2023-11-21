@@ -3,7 +3,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f2f2f2;
-    background-image: url('Fondo.png');
     background-repeat: repeat;
     animation: backgroundAnimation 15s linear infinite;
     background-position: bottom;  
@@ -108,8 +107,8 @@ body {
   }
 
   .box-image {
-    width: 10%;
-    height: 10%;
+    width: 50%;
+    height: 50%;
     object-fit: cover;
   }
 
